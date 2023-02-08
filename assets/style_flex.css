@@ -1,0 +1,171 @@
+@media screen and (max-width: 428px) {
+
+    .top {
+        background: url("/assets/img/header_back2.png");
+       width: 428px;
+       height: 505px;
+    }
+
+    .text_top h1 {
+        font-size: 32px;
+        text-align: left;
+        width: 278px;
+        margin: 0 0 0 0;
+        padding: 70px 0 0 24px;
+    }
+
+    .text_top p {
+        width: 381px;
+        height: 132px;
+        text-align: left;
+        font-size: 16px;
+        margin: 0 0 0 0;
+        padding: 60px 0 0 24px;
+
+    }
+
+    .button_top {
+        margin: 80px 0 0 0;
+        padding: 0 0 0 0;
+    }
+
+    .button_top button {
+        width: 381px;
+        height: 54px;
+        margin: 0 0 16px 24px;
+        padding: 0 0 0 0;
+        border-radius: 28px;
+    }
+
+
+    .even {
+        display: block;
+        width: 428px;
+        height: 506px;
+    }
+
+
+    .img_even img {
+        width: 379px;
+        height: 252px;
+        margin: 20px 0 0 20px;
+        padding: 0 0 0 0;
+    }
+
+    .text_even h2 {
+        font-size: 24px;
+        font-weight: 800;
+        width: 370px;
+        height: 99px;
+        margin: 0 0 0 24px;
+    }
+    
+    .text_even p {
+        font-size: 16px;
+        font-weight: 400;
+        width: 378px;
+        height: 88px;
+        padding: 0 0 0 0;
+        margin: 27px 0 0 20px;
+        line-height: 22px;
+    }
+
+    .odd {
+        width: 428px;
+        height: 507px;
+        padding: 0 0 0 0;
+        margin: 0 0 0 0;
+     }
+
+     .img_odd img {
+        width: 379px;
+        height: 252px;
+        margin: 20px 0 0 -355px;
+        padding: 0 0 0 0;
+     }
+     
+     .text_odd h2 {
+         font-size: 24px;
+         font-weight: 800;
+         width: 379px;
+         height: 33px;
+         margin: 300px 0 0 24px;
+         padding: 0 0 0 0;
+     }
+     
+     .text_odd p {
+         font-size: 16px;
+         font-weight: 400;
+         width: 378px;
+         height: 88px;
+         margin: 35px 0 0 24px;
+         padding: 0 0 0 0;
+     }
+
+
+     .text_even2 h2 {
+        font-size: 24px;
+        font-weight: 800;
+        width: 373px;
+        height: 33px;
+        margin: 40px 0 0 24px;
+        padding: 0 0 0 0;
+    }
+    
+    .text_even2 p {
+        font-size: 16px;
+        font-weight: 400;
+        width: 378px;
+        height: 88px;
+        margin: 20px 0 0 24px;
+        padding: 0 0 0 0;
+        line-height: 22px;
+    }
+
+
+     .end {
+        width: 428px;
+        height: 560px;
+        margin: 0 0 0 0;
+        padding: 0 0 0 0;
+        
+    }
+    
+    .text_end h1 {
+        font-weight: 400;
+        font-size: 32px;
+        text-align: left;
+        width: 376px;
+        height: 64px;
+        margin: 0 0 0 24px;
+        padding: 40px 0 0 0;
+    }
+    
+    .text_end p {
+        font-size: 16px;
+        width: 378px;
+        height: 110px;
+        margin: 0 0 0 0;
+        padding: 67px 0 0 24px;
+    }
+    
+    .img_end img {
+        width: 379px;
+        height: 252px;
+        margin: 100px 0 0 -227px;
+        padding: 0 0 0 0;
+    }
+
+    .base {
+        width: 428px;
+        height: 140px;
+        margin: 0 0 0 0;
+        padding: 0 0 0 0;
+    }
+    
+    .base img {
+        width: 162px;
+        height: 31px;
+        margin: 51px 0 0 133px;
+    }
+}
